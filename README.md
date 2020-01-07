@@ -12,6 +12,10 @@ La programación del microcontrolador se realizó en CCS C compiler y la simulac
 <img src="https://raw.githubusercontent.com/NicolasU-N/Generador_de_pulsos/master/images/schematic.png" width="600" align = "center">
 </p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/NicolasU-N/Generador_de_pulsos/master/images/3D/pcb_top.PNG" width="600" align = "center">
+</p>
+
 ## Resultados
 En la imagen se aprecia una onda cuadrada con un periodo de 50ms generada por el PIC16F628A
 
