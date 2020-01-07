@@ -1,0 +1,49 @@
+
+ROM used:   1118/2048 (55%)
+            1118/2048 (55%) including unused fragments
+
+            1.8 Average locations per line
+            24.8 Average locations per statement
+
+RAM used:   11/224 (5%) at main() level
+            26/224 (12%) worst case
+
+Stack used: 1 worst case (1 in main + 0 for interrupts)
+Stack size: 8
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+   76    45 100  PWM_16F628A.c
+  530     0   0  ..\..\..\..\..\PROGRAMAS\PICC\Devices\16F628A.h
+----- -----
+  606    45 Total
+
+Page ROM  %  RAM    Vol Diff  Functions:
+---- --- --- ---    --- ----  ----------
+0     20   2    1             @delay_ms1
+0    561  50    1   1645  7.8  main
+0    118  11   13             @MULFF
+0     31   3    4             @SFTOI
+0     63   6   10             @FLT
+0    321  29   16             @ADDFF
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               1
+    Statements              45
+    Comments                107
+    Volume (V)              1662
+    Difficulty (D)          7.4
+    Effort to implement (E) 12235
+    Time to implement (T)   11 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   11
+    Maintainability (MI)    53
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF  1114  930  
+
+
+
