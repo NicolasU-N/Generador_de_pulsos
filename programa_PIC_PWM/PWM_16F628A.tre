@@ -1,7 +1,13 @@
 읕PWM_16F628A
-   읕main  0/561  Ram=1
+   읕main  0/613  Ram=1
       쳐@cinit1  (Inline)  Ram=0
-      쳐@MULFF  0/118  Ram=13
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@delay_ms1  0/20  Ram=1
+      쳐@MULFF  0/117  Ram=13
       쳐@SFTOI  0/31  Ram=4
       쳐@delay_ms1  0/20  Ram=1
       쳐@delay_ms1  0/20  Ram=1

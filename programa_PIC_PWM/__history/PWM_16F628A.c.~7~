@@ -26,23 +26,9 @@ void main(){
    set_tris_b(0x00); // TODOS PINES SALIDAS DIGITALES
    
    setup_comparator(NC_NC_NC_NC);
-   setup_vref(FALSE);
+   setup_vref(FALSE); 
    
-   portb = display[2]; 
-   BIT_SET(LED);
-   delay_ms(500);   
-   BIT_CLEAR(LED);
-   delay_ms(500);
-   portb = display[1]; 
-   BIT_SET(LED);
-   delay_ms(500);   
-   BIT_CLEAR(LED);
-   delay_ms(500);
-   portb = display[0]; 
-   BIT_SET(LED);   
-   delay_ms(500);
-   BIT_CLEAR(LED);
-   delay_ms(500);
+   portb = display[1]; //display 1
    while(true){   
       onTime = (int)(duty*50);    
       BIT_SET(LED);

@@ -1,7 +1,7 @@
 [PROJECT]
 Target=PWM_16F628A.hex
 Processor_Text=PIC16F628A
-CCSVersion=5.083
+CCSVersion=5.061
 Compiler=PCM
 [Target Data]
 FileList=PWM_16F628A.c
@@ -11,19 +11,26 @@ Type=4
 1=PWM_16F628A.c
 
 [defines]
-buildcount=3
+buildcount=5
 
 [Opened Files]
 1=PWM_16F628A.c
-t1=37
+t1=28
 Count=1
 
 [ProjectLog]
-Days=1
+Days=2
 D1=07-01-2020
 D1_L=2
 D1_L1=[63525]Stopped Editing.
 D1_L2=[67291]Started Editing.
+D2=08-01-2020
+D2_L=5
+D2_L1=[38008]Project Opened.
+D2_L2=[38149]Started Editing.
+D2_L3=[38450]Stopped Editing.
+D2_L4=[39529]Started Editing.
+D2_L5=[40343]Stopped Editing.
 [Units]
 Count=1
 1=PWM_16F628A (main)
