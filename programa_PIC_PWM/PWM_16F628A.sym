@@ -47,19 +47,19 @@ ROM Allocation:
 0000EB  @ADDFF
 00022C  main
 00022C  @cinit1
-000239  @cinit2
+000237  @cinit2
 
 Project Directory:
     C:\Users\NICOLAS\Documents\PROYECTOS\PWM_16f628a\programa_PIC_PWM\
 
 Project Files:
-    PWM_16F628A.c                                           [08-ene.-20 11:07  CRC=07D6A677]
+    PWM_16F628A.c                                           [08-ene.-20 23:23  CRC=AA11CA06]
     D:\Dev\PICC\devices\16F628A.h                           [28-jun.-16 13:57  CRC=07791564]
 
-Source signature=16C8D13F
+Source signature=B903F4CE
 Program memory checksum=0000
 Program memory CRC=0000
-Hex file CRC=805B
+Hex file CRC=97A9
 
 Units:
     PWM_16F628A (main)

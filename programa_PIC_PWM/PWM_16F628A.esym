@@ -1,7 +1,7 @@
 D G "__PCM__" 0 91 ""5.061""
 D G "__DEVICE__" 0 91 "628"
 D G "__DATE__" 0 91 ""08-ene.-20""
-D G "__TIME__" 0 91 ""11:14:07""
+D G "__TIME__" 0 91 ""23:23:50""
 D G "_UNICODE" 0 91 ""?""
 D G "__EVAL" 0 91 ""?"" "Standard Header file for the PIC16F628A device ////////////////"
 c L "set_tris_a" 1 3 6 "FUNCTION"
@@ -845,16 +845,16 @@ d G "INT_CCP1" 1 515 "0x008C04"
 d G "INT_COMP" 1 516 "0x008C40"
 d G "INT_TIMER0" 1 517 "0x000B20"
 d G "INT_EEPROM" 1 518 "0x008C80"
-D G "SW1" 0 13 "PORTA,0"
-D G "SW2" 0 14 "PORTA,1"
-D G "LED" 0 15 "PORTB,7"
+D G "SW1" 0 12 "PORTA,0"
+D G "SW2" 0 13 "PORTA,1"
+D G "LED" 0 14 "PORTB,7"
 V G "display" 0 19 "[10]" `530 
 V G "duty" 0 21 "float" `532 
 V G "onTime" 0 22 "int8" `533 
 F N "main" 0 24 ""
 F G "main" 0 24 "void()" `534 
-C L "main" 0 12 1 "FUNCTION"
-C L "main" 0 12 1 "FUNCTION"
+C L "main" 0 25 1 "FUNCTION"
+C L "main" 0 25 1 "FUNCTION"
 F B "reset_cpu" 0 0
 F B "abs" 1 0
 F B "sleep" 0 0

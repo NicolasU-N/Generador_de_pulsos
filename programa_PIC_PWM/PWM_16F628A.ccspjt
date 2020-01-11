@@ -11,11 +11,11 @@ Type=4
 1=PWM_16F628A.c
 
 [defines]
-buildcount=5
+buildcount=20
 
 [Opened Files]
 1=PWM_16F628A.c
-t1=28
+t1=13
 Count=1
 
 [ProjectLog]
@@ -25,12 +25,27 @@ D1_L=2
 D1_L1=[63525]Stopped Editing.
 D1_L2=[67291]Started Editing.
 D2=08-01-2020
-D2_L=5
+D2_L=16
 D2_L1=[38008]Project Opened.
 D2_L2=[38149]Started Editing.
 D2_L3=[38450]Stopped Editing.
 D2_L4=[39529]Started Editing.
 D2_L5=[40343]Stopped Editing.
+TotalEdit=35
+TotalDebug=0
+D2_E=35
+D2_D=0
+D2_L6=[43019]Project Closed.
+D2_L7=[50480]Project Opened.
+D2_L8=[50782]Started Editing.
+D2_L9=[51700]Stopped Editing.
+D2_L10=[63935]Project Closed.
+D2_L11=[69971]Project Opened.
+D2_L12=[82657]Started Editing.
+D2_L13=[83386]Stopped Editing.
+D2_L14=[83898]Started Editing.
+D2_L15=[84355]Stopped Editing.
+D2_L16=[84355]Project Closed.
 [Units]
 Count=1
 1=PWM_16F628A (main)
